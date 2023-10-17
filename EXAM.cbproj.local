@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.359,=C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Windows Forms si WPF\EXAM.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Windows Forms si WPF\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,=C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Windows Forms si WPF\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,=C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,=C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.279,=C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Windows Forms si WPF\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.553,D:\Windows Forms si WPF\EXAM.cbproj=D:\Windows Forms si WPF\EXAM.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,=D:\Examen WF\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Windows Forms si WPF\EXAMPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,=C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,=C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,=C:\Users\Sergiu\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
